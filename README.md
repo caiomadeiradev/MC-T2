@@ -3,7 +3,7 @@
 # Potential Refs:
 - https://ieeexplore.ieee.org/abstract/document/6693431
 
-# Alguma sdicas pro metodo de avlaiacao:
+# Algumas dicas pro metodo de avaliação:
 - Escolher tiktok
 - Criar perfis (vinculados e nao vinculado ao google ou outra rede)
 - Baseado numa hipotese definida, setamos:
