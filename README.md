@@ -1,15 +1,9 @@
-# T2
+### Setup
 
-# Potential Refs:
-- https://ieeexplore.ieee.org/abstract/document/6693431
+1. Create virtual enviroment (python -m venv venv)
+2. source venv/bin/activate (in linux)
+3. pip install >> requirements_3.xx.txt (choose you python version)
 
-# Algumas dicas pro metodo de avaliação:
-- Escolher tiktok
-- Criar perfis (vinculados e nao vinculado ao google ou outra rede)
-- Baseado numa hipotese definida, setamos:
-    - Horário de coleta de dados (dependendo do que for coletado);
-- Template usado: IEEE e/ou SBC e/ou ACM;
 
-# Sobre o tema: Sistema de Recomendação de ALgorítmos:
-- Dentro desse tema, procuramos hipoteses/questões a serem provadas;
-- Um perfil procura recomendação de filmes, outro recebe conteudo de esportes, etc;
+### References:
+Youtube API V3: https://developers.google.com/youtube/v3/docs
